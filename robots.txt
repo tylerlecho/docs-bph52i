@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ctviv2.ridlerlandscapes.co.nz/sitemap.xml
